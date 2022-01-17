@@ -1,0 +1,27 @@
+{
+  "name": "lecture1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiahe/lecture1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaiahe/lecture1/issues"
+  },
+  "homepage": "https://github.com/Kaiahe/lecture1#readme",
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
