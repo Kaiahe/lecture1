@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Kaiahe/lecture1#readme",
   "devDependencies": {
-    "parcel": "^2.2.0"
+    "parcel": "^2.2.0",
+    "react-router-dom": "^6.2.1"
   },
   "dependencies": {
     "react": "^17.0.2",
